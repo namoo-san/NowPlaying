@@ -1,0 +1,13 @@
+{
+  "name": "NowPlaying",
+  "version": "1.3.0",
+  "description": "Post nowplaying to slack.",
+  "main": "post.js",
+  "repository": "https://github.com/namoo-san/nowplaying",
+  "author": "namoo-san",
+  "license": "MIT",
+  "dependencies": {
+    "playback": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
